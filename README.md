@@ -1,5 +1,4 @@
-# G Hall
-# Simulation of Hoover High School EAVR 
+# G Hall - VR Simulation of Hoover High School EAVR 
 
 In Development - \
 Meshes made with Blender and Solidworks \
