@@ -1,7 +1,7 @@
 # G Hall
 # Simulation of Hoover High School EAVR 
 
-In Development - 
+In Development - \
 Meshes made with Blender and Solidworks
 Programming through UE4 Blueprints
 Level Design through UE4 Editor
