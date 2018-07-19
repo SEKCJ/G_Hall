@@ -2,6 +2,7 @@
 	"BuildId": "4212847",
 	"Modules": 
 	{
+		"G_Hall_Project": "UE4Editor-G_Hall_Project.dll",
 		"VRExpPluginExample": "UE4Editor-VRExpPluginExample.dll"
 	}
 }
