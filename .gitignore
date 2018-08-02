@@ -1,7 +1,11 @@
 DerivedDataCache
 Intermediate
 Saved
+<<<<<<< HEAD
 C:\Users\EAVR\Documents\GitHub\G_Hall\Content\1st_project\G_Hall_files\G_hall_BuiltData.uasset
+=======
+/G_hall_BuiltData.uasset
+>>>>>>> 6ce5690087d94bcc2c418893ad4257460a15b267
 .vscode
 .vs
 *.VC.db
