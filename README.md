@@ -1,4 +1,4 @@
-### This may not be neccesary depending on your set up. Try to open the main file in UE4, and see if it works before trying the instructions below. They may be redundant or unneccesary with current versions###
+### This may not be neccesary depending on your set up. Try to open the main file in UE4, and see if it works before trying the instructions below. They may be redundant or unneccesary with current versions
 
 
 ### How do I get set up? ###
