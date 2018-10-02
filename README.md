@@ -1,3 +1,6 @@
+### This may not be neccesary depending on your set up. Try to open the main file in UE4, and see if it works before trying the instructions below. They may be redundant or unneccesary with current versions
+
+
 ### How do I get set up? ###
 
 Current compatible versions for template: Latest Engine Version (Template is not kept to as many compatible versions as the plugin itself).
@@ -8,3 +11,4 @@ Current compatible versions for template: Latest Engine Version (Template is not
 * Run
 
 You need to have visual studio installed and follow the UE4 setup guide for it: https://docs.unrealengine.com/latest/INT/Programming/Development/VisualStudioSetup/
+
